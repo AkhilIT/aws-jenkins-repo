@@ -1,3 +1,4 @@
-#!/bin/sh
-echo "welcome to jenkins"
+#!/bin/bash
 pwd
+date
+echo "welcome to jenkins"
